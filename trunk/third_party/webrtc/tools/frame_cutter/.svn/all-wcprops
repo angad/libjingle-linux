@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3215/stable/webrtc/tools/frame_cutter
+END
+frame_cutter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3215/stable/webrtc/tools/frame_cutter/frame_cutter_unittest.cc
+END
+frame_cutter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3205/stable/webrtc/tools/frame_cutter/frame_cutter.cc
+END
+frame_cutter_lib.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3215/stable/webrtc/tools/frame_cutter/frame_cutter_lib.cc
+END
+frame_cutter_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3205/stable/webrtc/tools/frame_cutter/frame_cutter_lib.h
+END
